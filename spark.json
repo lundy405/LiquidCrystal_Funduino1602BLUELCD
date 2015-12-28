@@ -1,0 +1,7 @@
+{
+  "name": "LiquidCrystal_Funduino1602BLUELCD",
+  "author": "Michael Lundy <mike@blueornge.com>",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "Fork of the LiquidCrystal_V1.2.1 Library for the Funduino 1602 16x2 Blue Backlit Display"
+}
